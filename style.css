@@ -1,0 +1,22 @@
+body{
+  background-color: #5D7C82;
+}
+#theCanvas{
+  background-color: white;
+  margin-top: 45px;
+}
+#container{
+  width: 480px;
+  margin: auto;
+  text-align: center;
+}
+button{
+  margin-top: 15px;
+}
+#commands{
+  margin-top: 15px;
+}
+.command{
+  text-transform: capitalize;
+  margin-top: 5px;
+}
